@@ -62,9 +62,9 @@ body{
 #cssmenu {
   float: left;
 	color: #000;
-	margin-right:6.6%;
+	margin-right:.6%;
 	padding-top: 5px;
-	width: 70.5%;
+	width: 76.5%;
 }
 #cssmenu > ul > li {
   display: inline-block;
